@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Editor/OS cruft
+Thumbs.db
+*.swp
