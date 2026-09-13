@@ -1,4 +1,4 @@
-# ServiceNow ↔ AWS Support Integration with Amazon EventBridge
+# AWS Support ↔ ServiceNow Integration
 
 An event-driven, serverless alternative to the [AWS Service Management Connector](https://docs.aws.amazon.com/servicecatalog/latest/adminguide/integrations-servicenow.html) (end-of-support March 31, 2027). It delivers near real-time, bi-directional communication between **AWS Support** and **ServiceNow** using [Amazon EventBridge](https://aws.amazon.com/eventbridge/) — with no polling and no ServiceNow table modifications.
 
